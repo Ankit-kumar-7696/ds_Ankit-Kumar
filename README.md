@@ -1,7 +1,7 @@
 # ds_Ankit-Kumar
 Analyzed crypto trading behavior under market sentiment using Python. Merged trader PnL data with Fear &amp; Greed Index, visualized Buy/Sell patterns, and explored correlations. Found weak links between sentiment and profitability—highlighting emotional bias in trading decisions.
 
-ds_report - [📄 View the report](file:///C:/Users/Ankit%20kumar/Downloads/ds_report.pdf)
+ds_report - [📄 View the report](//C:/Users/Ankit%20kumar/Downloads/ds_report.pdf)
 
 
 📊 Sentiment-Driven Crypto Trading Analysis
